@@ -2,6 +2,6 @@
 
 * [Welcome](README.md)
 
-## Group 1
+## 指令教程
 
-* [Page 1](group-1/page-1.md)
+* [常见指令](commands/common.md)
