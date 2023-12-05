@@ -1,11 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [欢迎](README.md)
+* [如何加入Hypiworld?](join-hypiworld.md)
 
 ## 指令教程
 
-* [常见指令](zhi-ling-jiao-cheng/chang-jian-zhi-ling.md)
-
-***
-
-* [如何加入Hypiworld?](ru-he-jia-ru-hypiworld.md)
+* [传送指令](commands/teleport.md)
+* [经济指令](commands/money.md)
