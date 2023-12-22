@@ -1,7 +1,10 @@
 # Table of contents
 
 * [欢迎](README.md)
-* [如何加入Hypiworld?](join-hypiworld.md)
+
+## 快速开始
+
+* [加入服务器](quick-start/join-server.md)
 
 ## 指令教程
 
